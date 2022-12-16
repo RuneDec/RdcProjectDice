@@ -1,0 +1,27 @@
+﻿<Window x:Class="DobbelsteenV2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DobbelsteenV2"
+        mc:Ignorable="d"
+        Title="Dobbelsteen" Height="450" Width="800">
+    <Grid Background="#FF236426" Cursor="Arrow">
+        <Label Content="Dobbelsteenroller." HorizontalAlignment="Center" Margin="0,10,0,0" Width="200" Height="50" FontSize="36" VerticalAlignment="Top" Foreground="#FFFFE97B" FontFamily="Edwardian Script ITC"/>
+        <GroupBox>
+            <Grid>
+                <Button Click="Button_Click" Content="Dobbelsteen1-6." Width="180" Height="30" HorizontalAlignment="Left" Margin="50,0,0,30" VerticalAlignment="Bottom" Background="#FF551515" Foreground="#FF9C8F4B" FontFamily="Edwardian Script ITC" FontSize="24"/>
+                <Button Click="Button_Click_1" Content="Dobbelsteen 1-6." Width="180" Height="30" HorizontalAlignment="Center" Margin="30" VerticalAlignment="Bottom" Background="#FF551515" Foreground="#FF9C8F4B" FontFamily="Edwardian Script ITC" FontSize="24"/>
+                <Button Click="Button_Click_2" Content="Dobbelsteen 1-20." Width="180" Height="30" HorizontalAlignment="Right" Margin="0,0,50,30" VerticalAlignment="Bottom" Background="#FF551515" Foreground="#FF9C8F4B" FontFamily="Edwardian Script ITC" FontSize="24" />
+                <Button Click="Button_Click_3" Content="Reset" HorizontalAlignment="Right" Margin="0,0,5,5" VerticalAlignment="Bottom" RenderTransformOrigin="-0.323,0.616" Width="51" Background="#FF551515" Foreground="#FF9C8F4B" FontFamily="Blackadder ITC" FontSize="16"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox>
+            <Grid>
+                <TextBlock x:Name="TxtBl1" HorizontalAlignment="Left" Margin="125,250,0,0"  VerticalAlignment="Top" Foreground="#FFFFE97B" FontFamily="Bahnschrift Condensed" FontSize="36"/>
+                <TextBlock x:Name="TxtBl2" HorizontalAlignment="Center" Margin="0,250,0,0"  VerticalAlignment="Top" Foreground="#FFFFE97B" FontFamily="Bahnschrift Condensed" FontSize="36"/>
+                <TextBlock x:Name="TxtBl3" HorizontalAlignment="Right" Margin="0,250,130,0"  VerticalAlignment="Top" Foreground="#FFFFE97B" FontFamily="Bahnschrift Condensed" FontSize="36"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
