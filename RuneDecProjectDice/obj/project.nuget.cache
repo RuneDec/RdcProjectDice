@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "17P7WNn+zfJoYUf9GfP6BHWK7jB9hZ8WYD/Z+05l2ATTf4TFJvmKX7hnDHKgSrpBVZP/tQonJo1RpWTpc5ylXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rune De Corte\\source\\repos\\Project Dobbelsteen\\RuneDecProjectDice\\RuneDecProjectDice\\RuneDecProjectDice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\7.0.0\\runtime.linux-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\runtime.native.system.io.ports\\7.0.0\\runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\7.0.0\\runtime.osx-x64.runtime.native.system.io.ports.7.0.0.nupkg.sha512",
+    "C:\\Users\\Rune De Corte\\.nuget\\packages\\system.io.ports\\7.0.0\\system.io.ports.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
